@@ -27,3 +27,41 @@
 他正要告訴你的，  
 是關於科學的，  
 一千零一夜的故事……。
+
+---
+
+## English — A Narrative Prelude on Light and the Hope of Science
+
+> “Concern for man himself and his fate  
+> must always form the chief interest of all technical endeavors”  
+> — Albert Einstein
+
+In a fury, the king decreed  
+that each dawn he would marry a new bride,  
+only to let none survive past morning,  
+for he did not believe in science.  
+
+He did not believe  
+that science could solve famine,  
+ensure the safety of his people,  
+or gather energy as if by magic.  
+
+If the world truly ran  
+in graceful accordance with natural laws,  
+why then was his soul so hollow, so broken?  
+
+So Shahryar  
+told the king the story of Fritz Haber,  
+who drew fertilizer from the air,  
+and the tale of Archimedes,  
+who held off invaders with sunlight curved by mirrors.  
+
+Shh… listen closely.  
+She was just about to explain  
+how Archimedes’ method of focusing sunlight  
+relates to the selection of neutron wavelengths.  
+
+A gentle narrator of time  
+is about to tell you  
+a story of science—  
+a tale from the Thousand and One Nights...
