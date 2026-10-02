@@ -34,13 +34,11 @@ Smooth Criminal……
 
 *1：輻射防護的合理抑低原則，封閉現場以減少輻射作業場所的人員劑量。
 
-*2：中子，基本粒子，無法用肉眼直接觀測。
+*2：中子，不帶電的次原子粒子，屬於由夸克組成的強子，無法用肉眼直接觀測。
 
 *3：活化產物活度將隨時間衰減。
 
-*4：中子活化基本公式。原簡報以公式物件呈現，這裡保留註釋指向，不自行重建公式。
-
-*5：常用於中子活化反演中子能譜的材料，其核反應為 Au-197(n,γ)Au-198。
+*4：常用於中子活化反演中子能譜的材料，其核反應為 Au-197(n,γ)Au-198。
 
 ---
 
@@ -79,10 +77,8 @@ Smooth Criminal…
 
 *1: The principle of As Low As Reasonably Achievable (ALARA) in radiation protection — the site is sealed off to reduce radiation exposure to personnel.
 
-*2: Neutrons, fundamental particles that cannot be directly observed by the naked eye.
+*2: Neutrons are electrically neutral subatomic particles, classified as hadrons composed of quarks, and cannot be directly observed by the naked eye.
 
 *3: The activity of activation products decays over time.
 
-*4: Basic formula of neutron activation. In the original slide this is presented as an equation object; the note is preserved here without reconstructing the formula.
-
-*5: Gold foil, a material commonly used for neutron activation analysis to infer neutron spectra; its nuclear reaction is Au-197(n,γ)Au-198.
+*4: Gold foil, a material commonly used for neutron activation analysis to infer neutron spectra; its nuclear reaction is Au-197(n,γ)Au-198.
