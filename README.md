@@ -59,6 +59,8 @@
 
 Li-Fang Chen holds a Ph.D. in Physics and is currently an Associate Researcher at the National Atomic Research Institute. Her work focuses on radiation protection, neutron simulation, scientific computing, numerical analysis, and scientific software development, with additional experience in neutron instrumentation research. In recent years, she has developed tools including SpecKit, ResoFox, and DiffraLab, with related work published in *Radiation Physics and Chemistry*, *SoftwareX*, and the *European Journal of Physics*.
 
+She has received the National Central University Golden Pen Award and the National College Literary Award.
+
 A woman scientist who deconstructs the real world into simulations, then uses those simulations to understand time and irreversibility—while secretly dreaming of becoming a Monte Carlo fairy.
 
 Alongside research, she also writes about science, education, research life, and what it means to be human.
