@@ -17,29 +17,29 @@
 
 ## 散文 / Essays
 
-- [研究日誌（緣起）](essays/01-research-journal.md) — 中英 / Chinese & English
-- [職場文化與防火牆](essays/02-workplace-culture-and-firewall.md) — 中英 / Chinese & English
-- [教材](essays/03-teaching-materials.md) — 中英 / Chinese & English
-- [教育的座標系假說](essays/04-educational-coordinate-system.md) — 中英 / Chinese & English
-- [SpecKit 緣起](essays/05-speckit-origin.md) — 中英 / Chinese & English
-- [學術倫理](essays/06-research-ethics.md) — 中英 / Chinese & English
-- [老師](essays/07-teacher.md) — 中英 / Chinese & English
-- [研究與轉譯](essays/08-research-and-translation.md) — 中文 / Chinese
-- [同行審查](essays/09-peer-review.md) — 中英 / Chinese & English
+- [研究日誌（緣起） / Research Journal](essays/01-research-journal.md) — 中英 / Chinese & English
+- [職場文化與防火牆 / Workplace Culture and Firewalls](essays/02-workplace-culture-and-firewall.md) — 中英 / Chinese & English
+- [教材 / Teaching Materials](essays/03-teaching-materials.md) — 中英 / Chinese & English
+- [教育的座標系假說 / The Educational Coordinate System Hypothesis](essays/04-educational-coordinate-system.md) — 中英 / Chinese & English
+- [SpecKit 緣起 / The Origin of SpecKit](essays/05-speckit-origin.md) — 中英 / Chinese & English
+- [學術倫理 / Research Ethics](essays/06-research-ethics.md) — 中英 / Chinese & English
+- [老師 / Teacher](essays/07-teacher.md) — 中英 / Chinese & English
+- [研究與轉譯 / Research and Translation](essays/08-research-and-translation.md) — 中文 / Chinese
+- [同行審查 / Peer Review](essays/09-peer-review.md) — 中英 / Chinese & English
 
 ## 現代詩 / Modern Poetry
 
-- [教育精神的詩意序曲](poems/01-educational-spirit.md) — 中英 / Chinese & English
-- [光與科學希望的敘事序曲](poems/02-light-and-hope-of-science.md) — 中英 / Chinese & English
-- [科學證據與中子活化的詩意序曲](poems/03-scientific-evidence-and-neutron-activation.md) — 中英 / Chinese & English
-- [中子照相的詩意序曲](poems/04-neutron-imaging.md) — 中英 / Chinese & English
-- [科學搖滾的詩意序曲](poems/05-science-rock.md) — 中英 / Chinese & English
-- [童話與安全度評估的詩意序曲](poems/06-fairy-tales-and-safety-assessment.md) — 中英 / Chinese & English
-- [紅葉・落花](poems/07-red-leaves-and-fallen-flowers.md) — 中文 / Chinese
-- [不可說](poems/08-unspeakable.md) — 中文 / Chinese
-- [禁止進入](poems/09-no-entry.md) — 中文 / Chinese
-- [林間雨](poems/10-forest-rain.md) — 中文 / Chinese
-- [羽織](poems/11-haori.md) — 中文 / Chinese
+- [教育精神的詩意序曲 / A Poetic Prelude to the Educational Spirit](poems/01-educational-spirit.md) — 中英 / Chinese & English
+- [光與科學希望的敘事序曲 / A Narrative Prelude on Light and the Hope of Science](poems/02-light-and-hope-of-science.md) — 中英 / Chinese & English
+- [科學證據與中子活化的詩意序曲 / A Poetic Prelude to Scientific Evidence and Neutron Activation](poems/03-scientific-evidence-and-neutron-activation.md) — 中英 / Chinese & English
+- [中子照相的詩意序曲 / A Poetic Prelude to Neutron Imaging](poems/04-neutron-imaging.md) — 中英 / Chinese & English
+- [科學搖滾的詩意序曲 / A Poetic Prelude of Science Rock](poems/05-science-rock.md) — 中英 / Chinese & English
+- [童話與安全度評估的詩意序曲 / A Poetic Prelude of Fairy Tales and Safety Assessment](poems/06-fairy-tales-and-safety-assessment.md) — 中英 / Chinese & English
+- [紅葉・落花 / Red Leaves and Fallen Flowers](poems/07-red-leaves-and-fallen-flowers.md) — 中文 / Chinese
+- [不可說 / Unspeakable](poems/08-unspeakable.md) — 中文 / Chinese
+- [禁止進入 / No Entry](poems/09-no-entry.md) — 中文 / Chinese
+- [林間雨 / Forest Rain](poems/10-forest-rain.md) — 中文 / Chinese
+- [羽織 / Haori](poems/11-haori.md) — 中文 / Chinese
 
 ---
 
