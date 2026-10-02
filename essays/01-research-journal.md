@@ -11,3 +11,21 @@
 「自我觀照」並非只能由研究習得，寫小說的人會，做社會科學的應該也擅長？這或許是對每個人而言，在人生旅途中最需要、也最重要的一種能力，而我們只能在我們能演譯的場域中，盡力地示範給他人看，無論這個場域是教學場域，又或者是職場。
 
 對了，題外話，我沒有任何鼓吹或崇尚道德勇氣的意圖，請隨時不要忘記「我是爛人」的假設，這樣我會活得比較輕鬆，這是事實，而且我還是爛得比較自私的那種，自己爛就好，不要害別人爛，畢竟要是大家都爛，社會就難混了。
+
+---
+
+## English — Research Journal
+
+Rather than a work presentation, this feels more like a research journal. Some teachers ask students to keep one, but most end up as logbooks — recording dates, materials, ratios, and experiments. Those are important, of course, but they’re not what research truly is.
+
+Research is a dialogue with oneself — an effort to understand nature and its patterns. Later, it extends to dialogues with others, with the scientific community, and with society — much like the Confucian path of self-cultivation, family harmony, state governance, and world peace. A research journal, at its core, is written for oneself, not for others.
+
+I admire early researchers who, in less connected times, exchanged letters about their work — writings that were both intellectual and personal, warm yet rigorous. Today’s research values speed over reflection; we can’t have both. Still, I wish for a personal renaissance of science, one that restores the human spirit to inquiry.
+
+Is doing research really so remarkable? Remarkable enough to warrant memos, self-reflective notes, or preserving Einstein’s brain? Honestly, it’s not that grand. For some, it’s a job; for others, a show; for a few, a joy. And precisely because it isn’t sacred, I think students should see what real research looks like early on. They can decide if it suits them — and if not, leaving is fine. Life should be spent on what feels beautiful, whatever that means to each person.
+
+So, what do we expect from teaching “how to research”? Beyond deciding whether one likes it, there should be a deeper takeaway — something every student can carry into life. I believe that is self-reflection.
+
+Self-reflection isn’t limited to science; novelists and social scientists do it too. It’s a vital skill for any life journey — to observe and understand oneself. All we can do is model it within our own spheres, be it in teaching or in work.
+
+And one more thing — I’m not trying to preach about moral courage. Just keep in mind the assumption that “I’m a flawed person.” That mindset helps me live more easily — and it’s true. I’m flawed in a rather selfish way: as long as my flaws don’t harm others, that’s enough. After all, if everyone let their flaws run wild, society would become a mess — too many rivals, too little grace.
