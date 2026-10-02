@@ -1,5 +1,7 @@
 # 教育精神的詩意序曲
 
+![教育精神插圖](../assets/educational-spirit.jpg)
+
 > “The mind is not a vessel that needs filling, but a fire to be kindled.”  
 > — Plutarch
 
