@@ -4,7 +4,7 @@
 
 在軟體簡介之前，來聊些對我而言輕鬆的話題吧，比如「教育」。沒錯，因為我離教育比較遠，所以教育對我而言，是輕鬆話題。
 
-我喜歡座標系的比喻，所以仍舊從禪宗風幡之爭的公案切入，這個公案巧妙地把物理參考座標系的概念與「人的心理活動」結合，科學和哲學本來就是同一回事，這導致我很喜歡把科學概念與日常生活中的人類活動結合並且比喻。我真心地相信我們可以用座標系的概念來比喻一個人目前的心理狀態，比如一個穩定的人是慣性座標系，一個不穩定的人則是非慣性座標系，兩個慣性座標系的人比較容易彼此溝通*1。而對於正在失速的系統，甚至對因果順序的看法和一般人都不同，我們偶爾會在社會新聞中看到這樣的狀況，這似乎與狹義相對論相吻合*2，卻難免令人悲傷。
+我喜歡座標系的比喻，所以仍舊從禪宗風幡之爭的公案切入，這個公案巧妙地把物理參考座標系的概念與「人的心理活動」結合，科學和哲學本來就是同一回事，這導致我很喜歡把科學概念與日常生活中的人類活動結合並且比喻。我真心地相信我們可以用座標系的概念來比喻一個人目前的心理狀態，比如一個穩定的人是慣性座標系，一個不穩定的人則是非慣性座標系，兩個慣性座標系的人比較容易彼此溝通*1。而對於正在失速的系統，對同時性的判斷也可能與其他系統不同。在這個比喻裡，我想說的是，人們所處的狀態不同，對同一情境的理解也可能不同；這讓我聯想到狹義相對論中的「同時性的相對性」*2，但並不是說心理狀態會改變物理上的因果順序。
 
 那麼，學生是哪一種座標系統呢？
 
@@ -20,7 +20,7 @@
 
 *1：Lorentz transform下物理定律有相同形式
 
-*2：當兩個慣性坐標系之間的相對速度接近光速時，兩系統對事件A與事件B的發生順序看法可能會不同。這是由於「同時性的相對性」所致。在一個坐標系中雖然事件B發生得較晚，但其發出的光訊息可能先於事件A的光抵達另一坐標系的觀測者。因此，不同慣性系會對事件的先後產生不同判定。這正是時空間測量關係隨參考系改變的結果。
+*2：狹義相對論中的「同時性的相對性」，是指在一個慣性參考系中同時發生於不同位置的兩個事件，在另一個相對運動的慣性參考系中可能不同時。這裡比較的是各參考系以同步時鐘賦予事件的時間座標，並非光訊號抵達觀測者的先後；後者還包含光的傳播延遲。只有類空間隔的事件，才可能在不同慣性參考系中出現相反的時間順序；對於具有類時或類光間隔、可能存在因果關聯的事件，所有保持時間方向的慣性參考系都保留其先後順序。這些差異不必等到相對速度接近光速才存在。正文借用此概念作為理解差異的比喻，並不是心理或教育現象的物理定律。
 
 *3：在閔可夫斯基坐標系中，不同慣性坐標系之間的時空互換關係（或互易性）由勞倫茲轉換所實現。
 
@@ -30,7 +30,7 @@
 
 Before introducing the software, let’s talk about something light—for me, that’s education. Yes, precisely because I’m far from the field, education feels relaxing to discuss.
 
-I enjoy using coordinate systems as metaphors, so let’s begin with the Zen story of the moving flag and the mind. This parable beautifully links the concept of physical reference frames with human thought. Science and philosophy, after all, are two sides of the same coin. I often connect scientific ideas with everyday human experiences, and I truly believe we can use coordinate systems to describe one’s mental state: a stable person is an inertial frame, an unstable one a non-inertial frame. Two inertial people communicate easily. For systems in free fall or chaos, even the perception of cause and effect differs—something we sometimes see in tragic news, echoing special relativity itself.
+I enjoy using coordinate systems as metaphors, so let’s begin with the Zen story of the moving flag and the mind. This parable beautifully links the concept of physical reference frames with human thought. Science and philosophy, after all, are two sides of the same coin. I often connect scientific ideas with everyday human experiences, and I truly believe we can use coordinate systems to describe one’s mental state: a stable person is an inertial frame, an unstable one a non-inertial frame. Two inertial people communicate easily. For systems losing control, judgments of simultaneity may also differ from those of other systems. In this metaphor, I mean that people in different states may understand the same situation differently; this reminds me of the relativity of simultaneity in special relativity*2, without implying that psychological states alter physical causal order.
 
 So what kind of system are students?
 
@@ -48,6 +48,6 @@ Of course, all this is just my irresponsible imagination, since I don’t do edu
 
 *1: Under the Lorentz transformation, the laws of physics retain the same form.
 
-*2: When the relative velocity between two inertial reference frames approaches the speed of light, the two systems may disagree on the temporal order of events A and B. This arises from the relativity of simultaneity. In one frame, event B may occur later, yet the light signal emitted from B could reach an observer in another frame before the light from event A does. Therefore, different inertial frames may assign different causal orders to the same pair of events. This reflects how spacetime measurements depend on the observer’s reference frame.
+*2: In special relativity, the relativity of simultaneity means that two events occurring at different locations simultaneously in one inertial reference frame may not be simultaneous in another inertial frame moving relative to it. The comparison concerns time coordinates assigned using synchronized clocks in each frame, not the order in which light signals reach an observer; signal arrival times also include light-travel delays. Only spacelike-separated events can have their temporal order reversed between inertial frames. For timelike- or lightlike-separated events, which may be causally connected, all time-orientation-preserving inertial frames retain their temporal order. These differences do not require relative speeds close to the speed of light. The main text uses this concept as a metaphor for differences in understanding, not as a physical law governing psychology or education.
 
 *3: In the Minkowski coordinate system, the mutual transformation (or reciprocity) between different inertial frames is realized through the Lorentz transformation.
