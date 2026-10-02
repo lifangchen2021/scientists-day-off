@@ -21,7 +21,6 @@
 - [職場文化與防火牆 / Workplace Culture and Firewalls](essays/02-workplace-culture-and-firewall.md) — 中英 / Chinese & English
 - [教材 / Teaching Materials](essays/03-teaching-materials.md) — 中英 / Chinese & English
 - [教育的座標系假說 / The Educational Coordinate System Hypothesis](essays/04-educational-coordinate-system.md) — 中英 / Chinese & English
-- [SpecKit 緣起 / The Origin of SpecKit](essays/05-speckit-origin.md) — 中英 / Chinese & English
 - [學術倫理 / Research Ethics](essays/06-research-ethics.md) — 中英 / Chinese & English
 - [老師 / Teacher](essays/07-teacher.md) — 中英 / Chinese & English
 - [研究與轉譯 / Research and Translation](essays/08-research-and-translation.md) — 中文 / Chinese
