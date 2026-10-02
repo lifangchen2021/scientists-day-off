@@ -23,7 +23,6 @@
 - [教育的座標系假說 / The Educational Coordinate System Hypothesis](essays/04-educational-coordinate-system.md) — 中英 / Chinese & English
 - [學術倫理 / Research Ethics](essays/06-research-ethics.md) — 中英 / Chinese & English
 - [老師 / Teacher](essays/07-teacher.md) — 中英 / Chinese & English
-- [研究與轉譯 / Research and Translation](essays/08-research-and-translation.md) — 中文 / Chinese
 - [同行審查 / Peer Review](essays/09-peer-review.md) — 中英 / Chinese & English
 
 ## 現代詩 / Modern Poetry
