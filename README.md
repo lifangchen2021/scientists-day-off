@@ -50,7 +50,7 @@
 
 此 repository 以 Markdown 保存作品，方便閱讀與版本追蹤。原簡報中已有的英文版本與作品插圖已盡量依原稿配回對應篇章；原稿沒有英文版本的作品則保留中文，不另外增譯。個別註釋也依簡報內容保留。  
 
-*This repository preserves the works in Markdown for easier reading and version tracking. Where the original presentation already contained an English version or illustration, it has been matched back into their corresponding work whenever possible. Works that did not originally include an English version remain in Chinese rather than being newly translated. Notes from the original presentation are also retained where applicable.*
+*This repository preserves the works in Markdown for easier reading and version tracking. Where the original presentation already contained an English version or illustration, it has been matched back to the corresponding work whenever possible. Works that did not originally include an English version remain in Chinese rather than being newly translated. Notes from the original presentation are also retained where applicable.*
 
 ## 作者簡介 / About the Author
 
