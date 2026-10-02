@@ -7,7 +7,7 @@
 一份介於科學、教育、研究生活與文學之間的作品集。  
 *A collection that lives somewhere between science, education, research life, and literature.*
 
-![科學家的「本日公休」作品插圖](assets/educational-spirit.jpg)
+![科學家的「本日公休」作品插圖](assets/stargazing-day-off.jpg)
 
 > 部分作品依原簡報保留中英文對照；原簡報中的作品插圖也已整理至各篇文章。  
 > *Some works retain the original Chinese-English pairing from the source presentation, and the original illustrations have also been placed back into their corresponding pieces.*
