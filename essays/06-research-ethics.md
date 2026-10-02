@@ -22,9 +22,23 @@
 
 *1：我的工作是模擬與軟體開發，這個領域獨立作者並不少見。
 
-*2：原稿另附「學術倫理發表規定（簡要版）」及延伸討論。
+*2：學術倫理發表規定（簡要版）
+
+- 誠實與原創：研究成果必須真實、可靠，不得捏造、篡改或抄襲。
+- 適當引用：引用他人資料、想法或文字時，必須明確標註出處，避免自我抄襲與他人抄襲。
+- 作者資格：
+  1. 只有對研究有實質學術貢獻的人才能列為作者，例如在研究構想、方法設計、資料分析、或論文撰寫上有明確參與者。
+  2. 僅提供經費、儀器或行政協助者，不應列名為作者，但可於致謝中表達感謝。
+  3. 作者順序應經所有作者共同同意，並反映各自的實際貢獻。
+  4. 對論文內容負有共同責任，應確保研究與發表的誠實與透明。
+- 利益揭露：若研究或發表涉及資助、商業利益或潛在衝突，須公開揭露。
+- 重複投稿禁止：同一篇研究不得同時投稿至多個期刊或重複發表。
+- 資料與結果保存：研究資料與原始數據應妥善保存，以供檢驗與後續研究參考。
+- 尊重受試者：涉及人或動物實驗時，須通過倫理審查，確保受試者權益與安全。
 
 *3：即後來的禪宗二祖慧可大師。
+
+延伸：論文投稿流程討論、作者掛名順序討論與切結書、易名處理流程
 
 ---
 
@@ -50,4 +64,18 @@ Alright, alright, I know—I will reflect on it. Truly, I will. So please, let m
 
 *1: My work focuses on simulation and software development—solo-authored papers are not uncommon in this field.
 
-*2: The original slide also includes a brief summary of academic publication ethics, covering honesty and originality, proper citation, authorship criteria, conflict-of-interest disclosure, duplicate submission, data preservation, and respect for human and animal subjects.
+*2: Academic Ethics for Publication (Brief Version)
+
+- **Honesty and Originality:** Research results must be truthful and reliable; fabrication, falsification, or plagiarism are strictly prohibited.
+- **Proper Citation:** All sources of data, ideas, or text from others must be clearly cited to avoid both plagiarism and self-plagiarism.
+- **Authorship Criteria:**
+  1. Only individuals who have made substantial academic contributions to the research—such as in conception, methodology, data analysis, or manuscript writing—should be listed as authors.
+  2. Those who provided only funding, equipment, or administrative support should not be listed as authors but may be acknowledged.
+  3. The order of authors should be mutually agreed upon and reflect the actual level of contribution.
+  4. All authors share responsibility for the integrity and transparency of the work.
+- **Conflict of Interest Disclosure:** Any financial support, commercial involvement, or potential conflicts of interest must be openly disclosed.
+- **No Duplicate Submission:** The same study must not be submitted to multiple journals or published more than once.
+- **Data and Results Preservation:** Research data and original records should be properly preserved for verification and future research.
+- **Respect for Human and Animal Subjects:** Studies involving human or animal participants must pass ethical review and ensure their rights and safety.
+
+Further topics: Discussion on the paper submission process, authorship order and declaration form, and the procedure for handling name changes.
