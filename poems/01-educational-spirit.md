@@ -28,3 +28,38 @@
 點燃別人內心的火光，  
 讓他人可以感覺到――  
 科學，是隨時發生在身邊的美好。
+
+---
+
+## English — A Poetic Prelude to the Educational Spirit
+
+> “The mind is not a vessel that needs filling, but a fire to be kindled.”  
+> — Plutarch
+
+Yes,  
+perhaps we can consider all human interactions  
+as a part of education.  
+That is why I am who I am.  
+
+I sincerely hope to offer even the slightest contribution,  
+to let others feel the beauty of science,  
+to understand that the continuity of knowledge transcends time and space—  
+just like at night, if you are willing to lift your eyes and gaze upon the distant stars,  
+what you see is the unimaginable, spanning thousands of light-years.  
+
+So let us try to reinterpret  
+the timeless riddle of the moving wind and the fluttering banner—  
+It is the wind that moves, it is the banner that moves,  
+but more so, it is the heart of the observer that moves.  
+
+It depends on which frame of reference you use to explain it.  
+It depends on whether you view it from a humanistic or scientific perspective.  
+But science and the humanities have never been a binary opposition;  
+they are a system of mutual electromagnetic induction.  
+And the coil that enables such induction to occur—  
+is education.  
+
+In my lifetime,  
+I wish to ignite the inner flame in others,  
+so they may feel—  
+that science is a beauty happening all around us, all the time.
