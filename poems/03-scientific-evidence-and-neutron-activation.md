@@ -26,3 +26,35 @@ Science Holmes
 
 你的耳機裡，正響起Michael Jackson的成名歌曲――  
 Smooth Criminal……
+
+---
+
+## English — A Poetic Prelude to Scientific Evidence and Neutron Activation
+
+> “Extraordinary claims require extraordinary evidence.”  
+> — Carl Sagan
+
+An inaccessible scene  
+A famed yet unseen rival  
+Evidence fading with time  
+
+Inside a sealed chamber,  
+a battle of wits is about to begin.  
+
+Something has surely happened.  
+The Geiger counter’s warning  
+grows ever more urgent.  
+
+That uncharged particle must have slipped through,  
+leaving behind a few traces—  
+so deftly done,  
+you’ve only ever seen such methods in textbooks.  
+
+Science Holmes,  
+you carefully pick up a piece of gold foil from the scene.  
+
+“Neutron, I’ve caught you,” you say.  
+
+In your earphones, at that very moment,  
+plays Michael Jackson’s famous song—  
+Smooth Criminal…
