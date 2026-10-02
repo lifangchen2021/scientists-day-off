@@ -25,3 +25,34 @@
 經過折射鏡，到達了數位相機的感光器  
 然後擊中了63年後  
 另一個被科學微光吸引的靈魂
+
+---
+
+## English — A Poetic Prelude to Neutron Imaging
+
+> “It would not be much of a universe  
+> if it wasn't home to the people you love.”  
+> ——Stephen Hawking
+
+New Year’s Day, 1962,  
+he wore a suit that glowed in the dark.  
+When the lights indoors faded away,  
+beneath the snowfall of the disco ball,  
+he became the only one shining in the crowd—  
+just so that Jane's gaze  
+could cut through the sea of people to find him.  
+
+The indirect of the indirect,  
+the evidence of the evidence—  
+there are always traces beyond direct observation  
+that flow quietly within science.  
+
+Yet I believe we can still  
+capture something.  
+
+Summer, 2025  
+Neutrons strike a scintillator, producing a faint glow  
+that, through a refractive mirror, reaches  
+the image sensor of a digital camera  
+and then, 63 years later, strikes  
+another soul drawn to the faintest light.
