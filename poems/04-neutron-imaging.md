@@ -1,5 +1,7 @@
 # 中子照相的詩意序曲
 
+![中子照相插圖](../assets/neutron-imaging.jpg)
+
 > “如果宇宙不是你所愛之人的家園，  
 > 那這個宇宙也沒什麼值得探求的”  
 > ——Stephen Hawking
