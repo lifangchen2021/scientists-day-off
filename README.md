@@ -50,11 +50,11 @@
 
 此 repository 以 Markdown 保存作品，方便閱讀與版本追蹤。原簡報中已有的英文版本與作品插圖已盡量依原稿配回對應篇章；原稿沒有英文版本的作品則保留中文，不另外增譯。個別註釋也依簡報內容保留。  
 
-*This repository preserves the works in Markdown for easier reading and version tracking. Where the original presentation already contained an English version or illustration, it has been matched back to the corresponding work whenever possible. Works that did not originally include an English version remain in Chinese rather than being newly translated. Notes from the original presentation are also retained where applicable.*
+*This repository preserves the works in Markdown for easier reading and version tracking. Where the original presentation already contained an English version or illustration, it has been matched back into their corresponding work whenever possible. Works that did not originally include an English version remain in Chinese rather than being newly translated. Notes from the original presentation are also retained where applicable.*
 
 ## 作者簡介 / About the Author
 
-陳立芳，物理學博士，現任國家原子能科技研究院副研究員。研究與專業工作主要聚焦於輻射防護、中子模擬、科學計算與數值分析，並從事科學軟體開發與中子儀器相關研究。近年開發 SpecKit、ResoFox、DiffraLab 等工具，相關成果發表於 *Radiation Physics and Chemistry*、*SoftwareX* 與 *European Journal of Physics* 等期刊。除研究工作外，也持續書寫關於科學、教育、研究生活與人的文字。
+陳立芳，物理學博士，現任國家原子能科技研究院副研究員。研究與專業工作主要聚焦於輻射防護、中子模擬、科學計算與數值分析，並從事科學軟體開發與中子儀器相關研究。近年開發 SpecKit、ResoFox、DiffraLab 等工具，相關成果發表於 *Radiation Physics and Chemistry*、*SoftwareX* 與 *European Journal of Physics* 等期刊。\n\n一個將真實世界解構成模擬，又用模擬理解何謂時間與不可逆，幻想成為蒙地卡羅精靈的女性科學家。\n\n除研究工作外，也持續書寫關於科學、教育、研究生活與人的文字。
 
 Li-Fang Chen holds a Ph.D. in Physics and is currently an Associate Researcher at the National Atomic Research Institute. Her work focuses on radiation protection, neutron simulation, scientific computing, numerical analysis, and scientific software development, with additional experience in neutron instrumentation research. In recent years, she has developed tools including SpecKit, ResoFox, and DiffraLab, with related work published in *Radiation Physics and Chemistry*, *SoftwareX*, and the *European Journal of Physics*. Alongside research, she also writes about science, education, research life, and what it means to be human.
 
