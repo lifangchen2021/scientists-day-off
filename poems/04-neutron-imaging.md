@@ -24,7 +24,7 @@
 
 2025年的夏天  
 中子打在閃爍體上發出的螢光  
-經過折射鏡，到達了數位相機的感光器  
+經過反射鏡，到達了數位相機的感光器  
 然後擊中了63年後  
 另一個被科學微光吸引的靈魂
 
@@ -37,7 +37,7 @@
 > ——Stephen Hawking
 
 New Year’s Day, 1962,  
-he wore a suit that glowed in the dark.  
+he wore a shirt that glowed in the dark.  
 When the lights indoors faded away,  
 beneath the snowfall of the disco ball,  
 he became the only one shining in the crowd—  
@@ -54,7 +54,7 @@ capture something.
 
 Summer, 2025  
 Neutrons strike a scintillator, producing a faint glow  
-that, through a refractive mirror, reaches  
+that, after reflection by a mirror, reaches  
 the image sensor of a digital camera  
 and then, 63 years later, strikes  
 another soul drawn to the faintest light.
