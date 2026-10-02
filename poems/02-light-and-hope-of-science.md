@@ -1,5 +1,7 @@
 # 光與科學希望的敘事序曲
 
+![光與科學希望插圖](../assets/light-and-hope-of-science.jpg)
+
 > 「對人類本身及其命運的關懷，  
 > 必須永遠是所有技術努力的首要考量」  
 > — Albert Einstein
