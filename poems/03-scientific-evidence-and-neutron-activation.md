@@ -1,5 +1,7 @@
 # 科學證據與中子活化的詩意序曲
 
+![科學證據與中子活化插圖](../assets/scientific-evidence-and-neutron-activation.jpg)
+
 > “非凡的主張需要非凡的證據。”  
 > ―Carl Sagan
 
