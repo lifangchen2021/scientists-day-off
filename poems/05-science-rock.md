@@ -24,3 +24,36 @@ EL效應hold住舞台燈光
 
 科學研究  
 現正流行混搭風
+
+---
+
+## English — A Poetic Prelude of Science Rock
+
+> “There is no isolated evidence;  
+> the power of evidence lies in its connection with other evidence.”  
+> — Rudolf von Jhering (1818–1892), German jurist
+
+The streets are sealed off,  
+today is made for reckless rock.  
+
+Are all the band members here?  
+Take your places!  
+
+Android on electronic remix,  
+Conservation of Mass controls the scene,  
+Monte Carlo thunders on the bass,  
+EL Effect holds the stage lights steady.  
+
+Hold the beat of your heart—  
+the drummer is Mathematics itself.  
+
+Look out at the glowing ocean of electrons  
+leaping in the crowd—  
+that is the hunger for soul-shaking sound.  
+
+Countdown begins—Go!  
+Step up, guitarist,  
+for here comes my favorite lead singer: Physics.  
+
+Scientific research,  
+a remix in the wild style of discovery.
