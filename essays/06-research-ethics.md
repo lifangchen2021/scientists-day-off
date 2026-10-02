@@ -23,3 +23,29 @@
 *2：原稿另附「學術倫理發表規定（簡要版）」及延伸討論。
 
 *3：即後來的禪宗二祖慧可大師。
+
+---
+
+## English — Research Ethics
+
+It was honestly quite boring, wasn’t it?
+
+At least, that’s what I originally thought. Can a person’s ethics and morality really be taught in class? I’ve always tended to believe that moral sense is learned through social interaction, so I had remained skeptical toward such courses—until one particular incident changed my view.
+
+Once you step into the workplace, you realize that authorship on academic papers often involves layers of “favor” and “exchange.” These forms of honorary or transactional co-authorships rarely go through strict “all-author approval.” At least that was the case for me—I was simply doing someone a favor. I didn’t want anyone interfering with the content of my paper, and I honestly felt that as long as I owed no one anything, my conscience was clear.
+
+But later, after a collaboration fell apart, I decided to leave a certain lab. At that time, two papers I had completed entirely on my own*1—yet still listed former collaborators as co-authors—had just been submitted for peer review. I suddenly found myself in a moral and procedural dilemma: if I kept their names, once the paper was accepted, I might be accused of academic misconduct; but if I withdrew the submission, I would have to revise and resubmit it, facing potential scrutiny when journals compared versions and noticed the change in author list.
+
+You can imagine how it felt like falling straight into hell. I had no choice but to really reread all those academic ethics *2 regulations carefully. After much deliberation, I finally decided to withdraw the original manuscript, revise it slightly, and resubmit it as a sole author. Believe me, that was a painful experience—because you never know if any journal will give you another chance, especially when a preprint with the previous author list is already online.
+
+At that time, I felt like a tragic stage actor, playing the role of the monk Huike—the Second Patriarch of Zen—kneeling in the snow before Bodhidharma after cutting off his own arm. I knelt through that metaphorical night, beside my own “severed arm” (my paper), on the red-stained white snow, hoping the “Master Bodhidharma” (the journal) would grant me peace of mind.
+
+Fortunately, the outcome turned out well enough. And I did, in the end, learn the importance of academic ethics through real social experience, just as I had always claimed. But to be honest, if I had a time machine, I would tell my past self not to be so stubborn—so I could spare myself some suffering.
+
+Alright, alright, I know—I will reflect on it. Truly, I will. So please, let me off the hook now.
+
+### Notes
+
+*1: My work focuses on simulation and software development—solo-authored papers are not uncommon in this field.
+
+*2: The original slide also includes a brief summary of academic publication ethics, covering honesty and originality, proper citation, authorship criteria, conflict-of-interest disclosure, duplicate submission, data preservation, and respect for human and animal subjects.
