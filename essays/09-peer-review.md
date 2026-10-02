@@ -19,3 +19,31 @@
 *1：Local minima（局部最小值）：在封閉系統中，系統能量在某一小範圍內達到最低點，屬於局部穩定狀態，但可能還有更低的能量狀態存在。常見於物理、化學的能量面分析及機器學習的優化問題中。
 
 *2：Global minima（全域最小值）：在封閉系統中，系統能量在整個範圍內達到最低點，代表最穩定狀態或平衡狀態。常用於描述系統的最終穩定能量、化學反應平衡或演算法最佳解。
+
+---
+
+## English — Peer Review
+
+Looking back, I think a stranger—a reviewer—saved my personality.
+
+Don’t get me wrong; this isn’t a story about passion for research or some heroic “academic spirit.” When I first tried submitting to an SCI journal, I was at a low point in life. Alone, I sent out my work with a “why not” attitude. I didn’t expect it to be accepted. I simply wanted to give my research a proper form—something honest, clean, and presentable, even if small.
+
+When the review comments arrived, I cried. I couldn’t understand why a stranger would spend time reading my paper so carefully and giving thoughtful, constructive advice. That experience gave me strength—it pulled me out of a local minima in my life. I realized the world is more compassionate than I had believed, but only if you first open a window—or carve one—to let light in. And when that light of kindness enters, you may suddenly understand something profound:
+
+peer review is an anonymous system that allows knowledge to circulate through goodwill. Fairness and kindness do not exist naturally; they require a framework to sustain them. Within that framework, goodness can endure—and sometimes even perform miracles, like saving me.
+
+“If one day I fall into a global minima, what then?”
+
+Perhaps that fragile version of me will ask again.
+
+And maybe, a gentle, confident voice will answer:
+
+“My dear, the world isn’t a closed system. There are no global minima in reality.”
+
+Maybe—just maybe—that voice will say it with a smile.
+
+### Notes
+
+*1: Local minima — A state where energy is at a local low within a closed system; stable but not absolute.
+
+*2: Global minima — The absolute lowest energy state in the entire system, representing complete stability or equilibrium.
