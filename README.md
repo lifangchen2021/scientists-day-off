@@ -53,6 +53,7 @@
 ## 作者簡介 / About the Author
 
 陳立芳，物理學博士，現任國家原子能科技研究院副研究員。研究與專業工作主要聚焦於輻射防護、中子模擬、科學計算與數值分析，並從事科學軟體開發與中子儀器相關研究。近年開發 SpecKit、ResoFox、DiffraLab 等工具，相關成果發表於 *Radiation Physics and Chemistry*、*SoftwareX* 與 *European Journal of Physics* 等期刊。
+曾獲中央大學金筆獎，全國大專文學獎。
 一個將真實世界解構成模擬，又用模擬理解何謂時間與不可逆，幻想成為蒙地卡羅精靈的女性科學家。
 除研究工作外，也持續書寫關於科學、教育、研究生活與人的文字。
 
