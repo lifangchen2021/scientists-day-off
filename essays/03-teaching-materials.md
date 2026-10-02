@@ -11,3 +11,19 @@
 我無法扼殺一個活物，也無法將一個活物納入我的所有權當中，所以我只好做出妥協：承認我僅為教材的父(母)代，它是一個冠了父(母)姓的，擁有自主定義的，屬於它自己的，具有奉獻精神的生命。
 
 而當教材完成及發表的那一刻，我僅能給予祝福，並期望教材的影響力與生命力是高於我的。
+
+---
+
+## English — Teaching Materials
+
+It was a moment of inner conflict.
+
+When I first began creating teaching materials, I felt a sense of novelty. After all, I’ve always been someone who enjoys talking to myself, and producing materials gave this peculiar habit a legitimate reason to exist. But one day, a series of questions emerged within this “self-dialogue,” and the joyful atmosphere of creation quickly shifted. I was forced to confront deeper questions: What is the relationship between teaching materials and knowledge itself? And more personally, what is the relationship between teaching materials and me?
+
+Knowledge, as I see it, is not made of words or mathematics. I am inclined to believe that knowledge is the universe itself — an immense concept that can manifest as the turbulent patterns of smoke in the air, the resonance of a bell marking the hour, or the motion of the planets. Everything in this universe can be regarded as a prototype of knowledge. Teaching materials, then, are simplified versions, miniature models, or slices of these prototypes — regularized projections, so to speak. In simple terms, the relationship between teaching materials and knowledge is one of “containing the cosmos within a mustard seed.”
+
+However, the question of my relationship with teaching materials troubled me for days. Are teaching materials merely tools for my expression? The question seems simple, yet when viewed across the timeline of their existence, it becomes complex. Once published, a piece of teaching material transcends culture, time, and space. It clearly becomes something greater than my personal influence — evolving through use, culture, context, and convenience. Over time, it will be revised and reinterpreted; its form will grow more intricate, while I will gradually fade away. It is a strange feeling — watching the editing screen, I sometimes feel as if the material itself is alive, breathing softly.
+
+I cannot kill a living being, nor can I claim ownership over one. So I made a compromise: I acknowledge myself merely as the material’s parent — a figure who lends it a name but not its soul. It possesses autonomy, purpose, and a spirit of contribution that belongs entirely to itself.
+
+And when the teaching material is finally complete and released into the world, all I can do is offer my blessing, and hope that its influence and vitality will one day surpass my own.
