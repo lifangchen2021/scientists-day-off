@@ -1,13 +1,13 @@
 # 科學家的「本日公休」  
 # Scientists' Day Off
 
-一份介於科學、教育、研究生活與文學之間的作品集。  
-*A collection that lives somewhere between science, education, research life, and literature.*
+
 
 > **這是我最喜歡的一個部分，是我身而為人，而不是機器，也不是訓練有素的狗的那一部分。**  
 > **This is my favorite part—the part of me that comes from being human, rather than a machine, or a well-trained dog.**
 
-
+一份介於科學、教育、研究生活與文學之間的作品集。  
+*A collection that lives somewhere between science, education, research life, and literature.*
 
 ![科學家的「本日公休」作品插圖](assets/stargazing-day-off.jpg)
 
